@@ -51,7 +51,7 @@ mkdir -p .claude/skills
 cp -r zhen-huan-pm .claude/skills/zhen-huan-pm
  
 # 或安装到全局（所有项目都能用）
-cp -r zhen-huan-pm ~/.claude/skills/zhen-huan-pm
+cp -r zhen-huan-pm~/.claude/skills/zhen-huan-pm
 ```
  
 ---
