@@ -48,10 +48,10 @@ zhen-huan-ld/
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-cp -r zhen-huan-ld .claude/skills/zhen-huan-ld
+cp -r zhen-huan-pm .claude/skills/zhen-huan-pm
  
 # 或安装到全局（所有项目都能用）
-cp -r zhen-huan-ld ~/.claude/skills/zhen-huan-ld
+cp -r zhen-huan-pm ~/.claude/skills/zhen-huan-pm
 ```
  
 ---
