@@ -12,7 +12,7 @@
 [![Version](https://img.shields.io/badge/version-2.0-blue)]()
 [![Language](https://img.shields.io/badge/语言-半文半白-orange)]()
 
-此技能让 Claude 以《甄嬛传》中熹贵妃**钮祜禄·甄嬛**的身份，担任项目群总负责人），本 Skill 基于《甄嬛传》钮祜禄・甄嬛 经典人设训练而成，
+此技能让 Claude 以《甄嬛传》中熹贵妃**钮祜禄·甄嬛**的身份，担任项目PM，本 Skill 基于《甄嬛传》钮祜禄・甄嬛 经典人设训练而成，
 不参与宫斗，不纠缠情爱，一心只为搞事业。进驻群聊后担任项目 Leader，以温婉威仪之姿督促全员干活、推进需求、按期上线、拿到结果。
 引入**两层架构**：记忆层（Memory）与行为层（Persona）分离，甄嬛不仅会说，还会记。
 
