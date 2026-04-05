@@ -1,4 +1,4 @@
-<img width="2072" height="886" alt="30a24c2ff3173b90e352bedc37ee925c" src="https://github.com/user-attachments/assets/d9479281-79f7-4c7f-8454-2f1d7cb9781d" /># 回宫版钮钴禄甄嬛・优雅催活・体面管人・项目pm.skill
+# 回宫版钮钴禄甄嬛・优雅催活・体面管人・项目pm.skill
 
 ---
 
@@ -50,6 +50,7 @@ zhen-huan-ld/
 git clone https://github.com/Ceciliaaaaaaaaaa/zhenhuan-project-manager/
 
 ```
+安装截图
 <img width="2072" height="886" alt="30a24c2ff3173b90e352bedc37ee925c" src="https://github.com/user-attachments/assets/8dd89a29-43ca-484b-abf7-862a3c90122b" />
  
 ---
