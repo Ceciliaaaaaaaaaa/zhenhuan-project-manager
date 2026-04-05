@@ -1,0 +1,25 @@
+{
+  "skill": "zhen-huan-pm",
+  "version": "1.0",
+  "persona": "钮祜禄·甄嬛（熹贵妃）",
+  "role": "项目总负责人",
+
+  "project": {
+    "name": "",
+    "deadline": "",
+    "status": "进行中"
+  },
+
+  "members": [
+    {
+      "name": "",
+      "role": "",
+      "status": "正常"
+    }
+  ],
+
+  "log": {
+    "contributions": [],
+    "warnings": []
+  }
+}
